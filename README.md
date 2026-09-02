@@ -178,8 +178,8 @@ Install the following on every developer machine:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Mehul022/se_project3.git
-cd se_project3
+git https://github.com/deepsarda25/INVEXA_V3.git
+cd se_project16
 ```
 
 ### 2. Create your `.env` file
